@@ -15,3 +15,30 @@ Text from the [original web-page](http://www.tiac.net/~sw/2008/10/Hilbert/moore/
 >
 >Doug Moore 
 >(dougm@...edu)
+
+####License
+From the [code](hilbert.c):
+```
+/* LICENSE
+ *
+ * This software is copyrighted by Rice University.  It may be freely copied,
+ * modified, and redistributed, provided that the copyright notice is 
+ * preserved on all copies.
+ * 
+ * There is no warranty or other guarantee of fitness for this software,
+ * it is provided solely "as is".  Bug reports or fixes may be sent
+ * to the author, who may or may not act on them as he desires.
+ *
+ * You may include this software in a program or other software product,
+ * but must display the notice:
+ *
+ * Hilbert Curve implementation copyright 1998, Rice University
+ *
+ * in any place where the end-user would see your own copyright.
+ * 
+ * If you modify this software, you should include a notice giving the
+ * name of the person performing the modification, the date of modification,
+ * and the reason for such modification.
+ */* 
+
+```
